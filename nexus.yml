@@ -24,7 +24,7 @@ services:
         - com.df.notify=true
         - com.df.distribute=true
         - com.df.serviceDomain=nexus.outcome-hub.com
-        - com.df.servicePath=/
+        - com.df.servicePath=/nexus
         - com.df.port=8081
         - com.df.letsencrypt.host=nexus.outcome-hub.com
         - com.df.letsencrypt.email=email@outcome-hub.com
